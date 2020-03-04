@@ -598,7 +598,6 @@
       "scope": "meta.diff, meta.diff.header",
       "settings": {
         "foreground": "#E0EDDD",
-        "background": "#B58900",
         "fontStyle": "italic"
       }
     },
@@ -606,7 +605,6 @@
       "scope": "markup.deleted",
       "settings": {
         "foreground": "#DC322F",
-        "background": "#F0E8CF",
         "fontStyle": ""
       }
     },
@@ -614,15 +612,13 @@
       "scope": "markup.changed",
       "settings": {
         "foreground": "#E53C70",
-        "background": "#F0E8CF",
         "fontStyle": ""
       }
     },
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#219186",
-        "background": "#F0E8CF"
+        "foreground": "#219186"
       }
     },
     {
@@ -704,7 +700,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#CD9731"
+        "foreground": "#f518be"
       }
     },
     {

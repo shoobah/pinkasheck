@@ -1,6 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Pink as Heck",
+
   "type": "dark",
   "colors": {
     "activityBar.background": "#1a1215",
@@ -16,7 +17,7 @@
     "editor.wordHighlightBackground": "#ff5c8d22",
     "editor.wordHighlightStrongBackground": "#ff5c8d22",
     "editorBracketMatch.border": "#d794ae",
-    "editorCursor.foreground": "#ffff00",
+    "editorCursor.foreground": "#51cf59",
     "editorError.foreground": "#ff62a5",
     "editorGroup.emptyBackground": "#1a1215",
     "editorGroupHeader.tabsBackground": "#1a1215",
@@ -107,7 +108,7 @@
     //"editor.rangeHighlightBackground": "#ffffff0b",
     //"editor.snippetFinalTabstopHighlightBorder": "#525252",
     //"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
-    //"editor.stackFrameHighlightBackground": "#ffff0033",
+    //"editor.stackFrameHighlightBackground": "#51cf5933",
     //"editor.symbolHighlightBackground": "#ea5c0055",
     //"editorActiveLineNumber.foreground": "#c6c6c6",
     //"editorBracketMatch.background": "#0064001a",

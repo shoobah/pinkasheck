@@ -2,7 +2,11 @@
   "name": "pinkasheck",
   "displatyName": "Pink as Heck",
   "description": "A very pink dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoobah/pinkasheck"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },

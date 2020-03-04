@@ -1,0 +1,21 @@
+{
+    "name": "pinkasheck",
+    "displayName": "PinkAsHeck",
+    "description": "Pink theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink as Heck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink as Heck-color-theme.json"
+            }
+        ]
+    }
+}

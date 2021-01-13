@@ -1,34 +1,35 @@
 {
-  "name": "pinkasheck",
-  "displayName": "Pink as Heck",
-  "description": "A very pink dark theme",
-  "version": "0.0.6",
-  "icon": "images/Logo-white-pink.png",
-  "galleryBanner": {
-    "color": "#ff5c8d",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shoobah/pinkasheck"
-  },
-  "engines": {
-    "vscode": "^1.42.0"
-  },
-  "author": {
-    "name": "shoobah"
-  },
-  "publisher": "shoobah",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Pink as Heck",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Pink as Heck-color-theme.json"
-      }
-    ]
-  }
+    "name": "pinkasheck",
+    "displayName": "Pink as Heck",
+    "description": "A very pink dark theme",
+    "version": "0.0.7",
+    "icon": "images/Logo-white-pink.png",
+    "galleryBanner": {
+        "color": "#ff5c8d",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shoobah/pinkasheck"
+    },
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "author": {
+        "name": "shoobah"
+    },
+    "publisher": "shoobah",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink as Heck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink as Heck-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
 }

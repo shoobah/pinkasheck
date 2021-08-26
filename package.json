@@ -28,6 +28,11 @@
                 "label": "Pink as Heck",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Pink as Heck-color-theme.json"
+            },
+            {
+                "label": "Pink as Heck Secondary",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink as Heck-color-theme-secondary.json"
             }
         ]
     },
